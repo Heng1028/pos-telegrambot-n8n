@@ -2,7 +2,9 @@
 
 > Self-initiated automation system built during an IT internship, now being incubated as a
 > commercial product for F&B and traditional small businesses in Malaysia.
-
+<p align="center">
+  <img src="demo.png" width="600">
+</p>
 ## Problem
 
 Small F&B business owners manage their menus in whatever format is convenient at the time —
