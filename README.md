@@ -99,3 +99,5 @@ In production use, approved by employer, actively serving real menu-digitization
 Built independently during a Diploma in IT internship (Network Security track), outside of
 assigned scope, and later approved by the employer for production use. The system is now the
 foundation for a commercial product currently in early customer validation.
+
+See also: [POS Backend Automation](https://github.com/Heng1028/pos-backend-automation)
